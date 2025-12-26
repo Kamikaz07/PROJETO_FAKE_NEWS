@@ -1,0 +1,7 @@
+{
+  "mean_similarity": 0.04579073832033448,
+  "fake_fake_mean": 0.05272444694102573,
+  "true_true_mean": 0.05264703264090722,
+  "fake_true_mean": 0.03889573684970248,
+  "sample_size": 500
+}

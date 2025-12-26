@@ -1,0 +1,14 @@
+{
+  "fake": {
+    "mean_length": 2561,
+    "mean_words": 427,
+    "median_length": 2243,
+    "median_words": 378
+  },
+  "true": {
+    "mean_length": 2378,
+    "mean_words": 384,
+    "median_length": 2216,
+    "median_words": 359
+  }
+}

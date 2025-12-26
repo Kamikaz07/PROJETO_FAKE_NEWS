@@ -1,0 +1,34 @@
+{
+  "lda": {
+    "fake": {
+      "0": "Governo Obama e Políticas Estaduais",
+      "1": "Investigação Clinton e Emails",
+      "2": "Eleição de Donald Trump",
+      "3": "Terrorismo Islâmico e ISIS",
+      "4": "Tiroteios Policiais e Mortes"
+    },
+    "true": {
+      "0": "Eleições Europeias e Governos",
+      "1": "Legislação Tributária e Saúde",
+      "2": "Campanha Eleitoral Trump-Clinton",
+      "3": "Coreia do Norte e Nuclear",
+      "4": "Justiça Federal e Casos"
+    }
+  },
+  "nmf": {
+    "fake": {
+      "0": "Presidência de Donald Trump",
+      "1": "Tiroteios Policiais Raciais",
+      "2": "Investigação FBI e Rússia",
+      "3": "Governo Obama e América",
+      "4": "Campanha Hillary Clinton"
+    },
+    "true": {
+      "0": "Campanha Presidencial Trump",
+      "1": "Conflito Sírio e Militar",
+      "2": "Mísseis Norte-Coreanos",
+      "3": "Congresso e Reforma Tributária",
+      "4": "Brexit e Política Britânica"
+    }
+  }
+}

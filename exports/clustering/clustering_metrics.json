@@ -1,0 +1,11 @@
+{
+  "silhouette_score": 0.21815807561775893,
+  "adjusted_rand_index": 0.010726599279650178,
+  "n_clusters": 2,
+  "cluster_sizes": [
+    4892,
+    9024
+  ],
+  "silhouette_k2": 0.36434281358049675,
+  "ari_k2": -0.0023150244750139953
+}

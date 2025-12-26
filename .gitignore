@@ -1,0 +1,3 @@
+*.pdf
+/.venv
+snyk_rules.instructions.md

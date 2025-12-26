@@ -1,0 +1,11 @@
+{
+  "total_samples": 38454,
+  "fake_count": 2883,
+  "true_count": 3991,
+  "fake_percentage": 7.5,
+  "true_percentage": 10.38,
+  "train_size": 30763,
+  "test_size": 7691,
+  "vocabulary_size": 5000,
+  "tfidf_features": 5000
+}
