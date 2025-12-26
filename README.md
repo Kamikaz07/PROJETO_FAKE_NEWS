@@ -111,6 +111,9 @@ O projeto utiliza o **ISOT Fake News Dataset** da Universidade de Victoria, que 
 - **Matplotlib, Seaborn** - Visualizações
 
 ---
+## 🔗 Link 
+
+https://fakenews-text-mining.streamlit.app/
 
 ## 👥 Autores
 
